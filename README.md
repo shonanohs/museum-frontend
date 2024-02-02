@@ -1,6 +1,7 @@
 ## Museum API Project
 This project aims to simulate a website for a Museum Group to showcase the artwork available in each of their museums.
 It allows users to run specific filtering, search and sorting options as well as book a visit to one of the museums.
+> [!NOTE]
 > This repository containts the front-end code for the website. See https://github.com/gracehogan/MuseumAPI for the back-end code.
 
 ### Key Technologies:

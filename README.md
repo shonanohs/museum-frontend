@@ -9,7 +9,6 @@ It allows users to run specific filtering, search and sorting options as well as
 - JUnit/Cucumber tests
 - Docker
 - MySQL
-- Cucumber
 - React
 
 ### Key Features:
